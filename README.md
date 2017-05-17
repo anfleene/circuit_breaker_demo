@@ -1,4 +1,4 @@
-# This is a demo of how to use a Circuit Breaker in Ruby
+# Demo of how to use a Circuit Breaker in Ruby
 
 This demo is designed to use [Toxiproxy](https://github.com/Shopify/toxiproxy) proxying google.com to show how a Circuit Works
 
